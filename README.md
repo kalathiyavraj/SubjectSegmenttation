@@ -11,7 +11,7 @@ Subject segmentation with ML Kit for Android .
 		repositories {
 			
 			maven { url 'https://jitpack.io' }
-      maven { url 'https://androidx.dev/snapshots/builds/6787662/artifacts/repository/' }
+                        maven { url 'https://androidx.dev/snapshots/builds/6787662/artifacts/repository/' }
 		}
 	}
  ```
