@@ -20,7 +20,7 @@ Subject segmentation with ML Kit for Android .
 ```gradle
 dependencies {
 
-    implementation 'com.github.kalathiyavraj:SubjectSegmenttation:Tag'
+	implementation 'com.github.kalathiyavraj:SubjectSegmenttation:1.0.0'
 
 
             }
