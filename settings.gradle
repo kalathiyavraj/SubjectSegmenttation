@@ -1,0 +1,3 @@
+rootProject.name = "My subject segmenttation"
+include ':app'
+include ':SubjectSegmentation'
