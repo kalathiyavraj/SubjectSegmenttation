@@ -34,7 +34,7 @@ dependencies {
  > * How is it Work
   ```gradle
   
-  MySegmentation.SubjectSegment(MainActivity.this, uri, new MySegmentation.SegmentationCallback() {
+  MySegmentation.SubjectSegment(MainActivity.this, Imageuri, new MySegmentation.SegmentationCallback() {
             @Override
             public void onSegmentationComplete(Bitmap bitmap, int timeElapsed, String error) {
                 if (bitmap != null) {
