@@ -7,6 +7,11 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/pickkimage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="pick"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
